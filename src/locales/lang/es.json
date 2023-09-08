@@ -1,0 +1,76 @@
+{
+    "nav": {
+        "dashboard": "TABLERO",
+        "accountMenu": {
+            "accountMenu": "CUENTA",
+            "item1": "Mi Cuenta",
+            "item2": "Operadores",
+            "item3": "Proveedores",
+            "item4": "Socios",
+            "item5": "Clientes Corporativos",
+            "item6": "Clientes Minoristas",
+            "item7": "Aprobaciones Pendientes"
+        },
+        "catalougeMenu": {
+            "catalougeMenu": "CATÁLOGO",
+            "item1": "Plantillas",
+            "item2": "Artículos",
+            "item3": "Soluciones"
+        },
+        "wareHouseMenu": {
+            "wareHouseMenu": "ALMACÉN",
+            "item1": "Tablero",
+            "item2": "Almacén",
+            "item3": "Órdenes de Trabajo"
+        },
+        "ordersMenu": {
+            "ordersMenu": "ÓRDENES"
+        },
+        "offersMenu": {
+            "offersMenu": "OFERTAS Y REEMBOLSOS"
+        },
+        "billingMenu": {
+            "billingMenu": "FACTURACIÓN",
+            "dashboard": "Tablero",
+            "chargeAndBills": "Cargos y Facturas",
+            "payments": "Pagos",
+            "settlements": "Liquidaciones"
+        },
+        "reportsMenu": {
+            "reportsMenu": "INFORMES"
+        },
+        "settingsMenu": {
+            "settingsMenu": "CONFIGURACIÓN",
+            "generalSettings": "Configuración General",
+            "apiConfiguration": "Configuración de API",
+            "themeConfiguration": "Configuración de Tema",
+            "brandInfo": "Información de Marca",
+            "notifications": "Notificaciones"
+           
+        },
+        "masterDataMenu": {
+            "masterDataMenu": "Datos Maestros",
+            "item1": "Tipo de Documento",
+            "item2": "Categoría de Producto",
+            "item3": "Categoría de Cliente",
+            "item4": "Componente de Impuestos",
+            "item5": "Moneda",
+            "item6": "Tipo de Contrato",
+            "item7": "Eventos"
+        },
+        "collapseMenu": {
+            "collapseMenu": "Ocultar elemento de menú",
+            "item1": "Ocultar elemento de menú 1",
+            "item2": "Ocultar elemento de menú 2"
+        },
+        "groupMenu": {
+            "groupMenu": "Menú de Grupo",
+            "single": "Elemento de Menú Individual de Grupo",
+            "collapse": {
+                "collapse": "Menú de Colapso de Grupo",
+                "item1": "Elemento 1 del Menú de Colapso de Grupo",
+                "item2": "Elemento 2 del Menú de Colapso de Grupo"
+            }
+        }
+    }
+}

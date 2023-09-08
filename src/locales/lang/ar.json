@@ -1,0 +1,77 @@
+{
+    "nav": {
+        "dashboard": "لوحة التحكم",
+        "accountMenu": {
+            "accountMenu": "الحساب",
+            "item1": "حسابي",
+            "item2": "المشغلون",
+            "item3": "المزودون",
+            "item4": "الشركاء",
+            "item5": "العملاء المؤسسيون",
+            "item6": "العملاء التجزئة",
+            "item7": "الموافقات المعلقة"
+        },
+        "catalougeMenu": {
+            "catalougeMenu": "الكتالوج",
+            "item1": "القوالب",
+            "item2": "العناصر",
+            "item3": "الحلول"
+        },
+        "wareHouseMenu": {
+            "wareHouseMenu": "المستودع",
+            "item1": "لوحة التحكم",
+            "item2": "المستودع",
+            "item3": "أوامر العمل"
+        },
+        "ordersMenu": {
+            "ordersMenu": "الطلبات"
+        },
+        "offersMenu": {
+            "offersMenu": "العروض والنقد الردود"
+        },
+        "billingMenu": {
+            "billingMenu": "الفواتير",
+            "dashboard": "لوحة التحكم",
+            "chargeAndBills": "الرسوم والفواتير",
+            "payments": "المدفوعات",
+            "settlements": "التسويات"
+           
+        },
+        "reportsMenu": {
+            "reportsMenu": "التقارير"
+        },
+        "settingsMenu": {
+            "settingsMenu": "الإعدادات",
+            "generalSettings": "الإعدادات العامة",
+            "apiConfiguration": "تكوين واجهة برمجة التطبيقات",
+            "themeConfiguration": "تكوين السمة",
+            "brandInfo": "معلومات العلامة التجارية",
+            "notifications": "الإشعارات"
+            
+        },
+        "masterDataMenu": {
+            "masterDataMenu": "البيانات الرئيسية",
+            "item1": "نوع المستند",
+            "item2": "فئة المنتج",
+            "item3": "فئة العميل",
+            "item4": "مكون الضريبة",
+            "item5": "العملة",
+            "item6": "نوع العقد",
+            "item7": "الأحداث"
+        },
+        "collapseMenu": {
+            "collapseMenu": "طي عنصر القائمة",
+            "item1": "طي عنصر القائمة 1",
+            "item2": "طي عنصر القائمة 2"
+        },
+        "groupMenu": {
+            "groupMenu": "قائمة المجموعة",
+            "single": "عنصر قائمة فردي للمجموعة",
+            "collapse": {
+                "collapse": "قائمة طي المجموعة",
+                "item1": "عنصر 1 من قائمة طي المجموعة",
+                "item2": "عنصر 2 من قائمة طي المجموعة"
+            }
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "nav": {
+      "dashboard": "PAINEL",
+      "accountMenu": {
+        "accountMenu": "CONTA",
+        "item1": "Minha Conta",
+        "item2": "Operadores",
+        "item3": "Fornecedores",
+        "item4": "Parceiros",
+        "item5": "Clientes Corporativos",
+        "item6": "Clientes Varejo",
+        "item7": "Aprovações Pendentes"
+      },
+      "catalougeMenu": {
+        "catalougeMenu": "CATÁLOGO",
+        "item1": "Modelos",
+        "item2": "Artigos",
+        "item3": "Soluções"
+      },
+      "wareHouseMenu": {
+        "wareHouseMenu": "ARMAZÉM",
+        "item1": "Painel",
+        "item2": "Armazém",
+        "item3": "Ordens de Trabalho"
+      },
+      "ordersMenu": {
+        "ordersMenu": "PEDIDOS"
+      },
+      "offersMenu": {
+        "offersMenu": "OFERTAS E REEMBOLSOS"
+      },
+      "billingMenu": {
+        "billingMenu": "FATURAÇÃO",
+        "dashboard": "Painel",
+        "chargeAndBills": "Cobranças e Faturas",
+        "payments": "Pagamentos",
+        "settlements": "Acertos"
+      },
+      "reportsMenu": {
+        "reportsMenu": "RELATÓRIOS"
+      },
+      "settingsMenu": {
+        "settingsMenu": "CONFIGURAÇÕES",
+        "generalSettings": "Configurações Gerais",
+        "apiConfiguration": "Configuração de API",
+        "themeConfiguration": "Configuração de Tema",
+        "brandInfo": "Informações da Marca",
+        "notifications": "Notificações"
+       
+      },
+      "masterDataMenu": {
+        "masterDataMenu": "Dados Mestres",
+        "item1": "Tipo de Documento",
+        "item2": "Categoria de Produto",
+        "item3": "Categoria de Cliente",
+        "item4": "Componente de Impostos",
+        "item5": "Moeda",
+        "item6": "Tipo de Contrato",
+        "item7": "Eventos"
+      },
+      "collapseMenu": {
+        "collapseMenu": "Ocultar Item de Menu",
+        "item1": "Ocultar Item de Menu 1",
+        "item2": "Ocultar Item de Menu 2"
+      },
+      "groupMenu": {
+        "groupMenu": "Menu em Grupo",
+        "single": "Item de Menu Individual em Grupo",
+        "collapse": {
+          "collapse": "Menu de Colapso em Grupo",
+          "item1": "Item 1 do Menu de Colapso em Grupo",
+          "item2": "Item 2 do Menu de Colapso em Grupo"
+        }
+      }
+    }
+  }
+  

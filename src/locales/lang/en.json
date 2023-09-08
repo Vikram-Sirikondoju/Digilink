@@ -1,0 +1,83 @@
+{
+    "nav": {
+        
+        "dashboard": "DASHBOARD",
+        "accountMenu": {
+            "accountMenu": "ACCOUNTS",
+            "item1": "My Account",
+            "item2": "Operators",
+            "item11": "Master Roles",
+            "item3": "Providers",
+            "item4": "Partners",
+            "item5": "Enterprise Customers",
+            "item6": "Retail Customers",
+            "item7": "Pending Approvals"
+        },
+        "catalougeMenu": {
+            "catalougeMenu": "CATALOGUE",
+            "item1": "Templates",
+            "item2": "Items",
+            "item3": "Solutions"
+        },
+        "wareHouseMenu": {
+            "wareHouseMenu": "WAREHOUSE",
+            "item1": "Dashboard",
+            "item2": "Warehouse",
+            "item3": "Work Orders"
+        },
+        "ordersMenu": {
+            "ordersMenu": "ORDERS"
+        },
+        "offersMenu": {
+            "offersMenu": "OFFERS & CASHBACKS"
+        },
+        "billingMenu": {
+            "billingMenu": "BILLING",
+            "dashboard": "Dashboard",
+            "chargeAndBills": "Charges & Bills",
+            "payments": "Payments",
+            "settlements": "Settlements"
+
+        },
+        "reportsMenu": {
+            "reportsMenu": "REPORTS"
+        },
+        
+       
+        "settingsMenu": {
+            "settingsMenu": "SETTINGS",
+            "generalSettings": "General Settings",
+            "passwordPolicy":"Password Policy",
+            "apiConfiguration": "API Configuration",
+            "themeConfiguration": "Theme Configuration",
+            "brandInfo": "Brand Info",
+            "notifications": "Notifications"
+           
+        },
+        "masterDataMenu": {
+            "masterDataMenu": "MASTER DATA",
+            "item1": "Doc Type",
+            "item2": "Item Category",
+            "item3": "Customer Category",
+            "item4": "Tax Component",
+            "item5": "Currency",
+            "item6": "Contract Type",
+            "item7": "Events",
+            "item9":"Pages"
+        },
+        "collapseMenu": {
+            "collapseMenu": "Collapse menu item",
+            "item1": "Collapse menu item 1",
+            "item2": "Collapse menu item 2"
+        },
+        "groupMenu": {
+            "groupMenu": "Group menu",
+            "single": "Group single menu item",
+            "collapse": {
+                "collapse": "Group collapse menu",
+                "item1": "Group collapse menu item 1",
+                "item2": "Group collapse menu item 2"
+            }
+        }
+    }
+}
